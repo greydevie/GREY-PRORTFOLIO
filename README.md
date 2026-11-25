@@ -20,7 +20,7 @@ A responsive, modern personal portfolio website showcasing my academic backgroun
 
 ## 📂 Project Structure
 
-```text
+GREY_P
 ├── index.html          # Main HTML structure and page sections
 ├── css/
 │   └── style.css       # Theme variables, responsive layout, and motion system
